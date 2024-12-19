@@ -1,0 +1,2236 @@
+[DEBUG] 
+Differenciator/source/read_diff.cpp:38 (ReadDataBase) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+File with name "Example.txt" and pointer [0x515000000800] was opened
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:46 (ReadDataBase) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Size of file = 23
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:60 (ReadDataBase) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Input buffer = 0x5030000001f0
+Size of file = 23
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:69 (ReadDataBase) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+File with pointer [0x515000000800] was closed
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:104 (GetAddSub) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Input buffer    = 0x5030000001f0
+Offset          = 0
+Node*           = 0x71e7aad09020
+Run time symbol = {l}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:209 (GetMulDiv) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Input buffer    = 0x5030000001f0
+Offset          = 0
+Node*           = 0x71e7aad09020
+Run time symbol = {l}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:288 (GetPow) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Input buffer    = 0x5030000001f0
+Offset          = 0
+Node*           = 0x71e7aad09020
+Run time symbol = {l}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:360 (GetBrace) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Input buffer    = 0x5030000001f0
+Offset          = 0
+Node*           = 0x71e7aad09020
+Run time symbol = {l}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:408 (GetNumVar) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Input buffer    = 0x5030000001f0
+Offset          = 0
+Node*           = 0x71e7aad09020
+Run time symbol = {l}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:466 (GetFunc) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Read function = log
+
+
+[DEBUG] 
+Differenciator/libs/My_lib/My_stdio/my_stdio.cpp:16 (my_strcmp) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+s1 = log
+s2 = pi
+
+
+[DEBUG] 
+Differenciator/libs/My_lib/My_stdio/my_stdio.cpp:16 (my_strcmp) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+s1 = log
+s2 = +
+
+
+[DEBUG] 
+Differenciator/libs/My_lib/My_stdio/my_stdio.cpp:16 (my_strcmp) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+s1 = log
+s2 = -
+
+
+[DEBUG] 
+Differenciator/libs/My_lib/My_stdio/my_stdio.cpp:16 (my_strcmp) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+s1 = log
+s2 = *
+
+
+[DEBUG] 
+Differenciator/libs/My_lib/My_stdio/my_stdio.cpp:16 (my_strcmp) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+s1 = log
+s2 = /
+
+
+[DEBUG] 
+Differenciator/libs/My_lib/My_stdio/my_stdio.cpp:16 (my_strcmp) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+s1 = log
+s2 = ^
+
+
+[DEBUG] 
+Differenciator/libs/My_lib/My_stdio/my_stdio.cpp:16 (my_strcmp) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+s1 = log
+s2 = sin
+
+
+[DEBUG] 
+Differenciator/libs/My_lib/My_stdio/my_stdio.cpp:16 (my_strcmp) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+s1 = log
+s2 = cos
+
+
+[DEBUG] 
+Differenciator/libs/My_lib/My_stdio/my_stdio.cpp:16 (my_strcmp) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+s1 = log
+s2 = tg
+
+
+[DEBUG] 
+Differenciator/libs/My_lib/My_stdio/my_stdio.cpp:16 (my_strcmp) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+s1 = log
+s2 = ctg
+
+
+[DEBUG] 
+Differenciator/libs/My_lib/My_stdio/my_stdio.cpp:16 (my_strcmp) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+s1 = log
+s2 = ln
+
+
+[DEBUG] 
+Differenciator/libs/My_lib/My_stdio/my_stdio.cpp:16 (my_strcmp) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+s1 = log
+s2 = log
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:360 (GetBrace) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Input buffer    = 0x5030000001f0
+Offset          = 4
+Node*           = 0x504000000030
+Run time symbol = {x}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:408 (GetNumVar) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Input buffer    = 0x5030000001f0
+Offset          = 4
+Node*           = 0x504000000030
+Run time symbol = {x}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:524 (GetVar) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Input buffer    = 0x5030000001f0
+Offset          = 4
+Node*           = 0x504000000030
+Run time symbol = {x}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:360 (GetBrace) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Input buffer    = 0x5030000001f0
+Offset          = 6
+Node*           = 0x504000000030
+Run time symbol = {x}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:408 (GetNumVar) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Input buffer    = 0x5030000001f0
+Offset          = 6
+Node*           = 0x504000000030
+Run time symbol = {x}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:524 (GetVar) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Input buffer    = 0x5030000001f0
+Offset          = 6
+Node*           = 0x504000000030
+Run time symbol = {x}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:298 (GetPow) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Run time symbol = {+}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:224 (GetMulDiv) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Run time symbol = {+}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:144 (GetAddSub) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Run time symbol = {+}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:209 (GetMulDiv) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Input buffer    = 0x5030000001f0
+Offset          = 9
+Node*           = 0x5040000000f0
+Run time symbol = { }
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:288 (GetPow) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Input buffer    = 0x5030000001f0
+Offset          = 10
+Node*           = 0x5040000000f0
+Run time symbol = {s}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:360 (GetBrace) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Input buffer    = 0x5030000001f0
+Offset          = 10
+Node*           = 0x5040000000f0
+Run time symbol = {s}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:408 (GetNumVar) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Input buffer    = 0x5030000001f0
+Offset          = 10
+Node*           = 0x5040000000f0
+Run time symbol = {s}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:466 (GetFunc) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Read function = sin
+
+
+[DEBUG] 
+Differenciator/libs/My_lib/My_stdio/my_stdio.cpp:16 (my_strcmp) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+s1 = sin
+s2 = pi
+
+
+[DEBUG] 
+Differenciator/libs/My_lib/My_stdio/my_stdio.cpp:16 (my_strcmp) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+s1 = sin
+s2 = +
+
+
+[DEBUG] 
+Differenciator/libs/My_lib/My_stdio/my_stdio.cpp:16 (my_strcmp) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+s1 = sin
+s2 = -
+
+
+[DEBUG] 
+Differenciator/libs/My_lib/My_stdio/my_stdio.cpp:16 (my_strcmp) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+s1 = sin
+s2 = *
+
+
+[DEBUG] 
+Differenciator/libs/My_lib/My_stdio/my_stdio.cpp:16 (my_strcmp) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+s1 = sin
+s2 = /
+
+
+[DEBUG] 
+Differenciator/libs/My_lib/My_stdio/my_stdio.cpp:16 (my_strcmp) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+s1 = sin
+s2 = ^
+
+
+[DEBUG] 
+Differenciator/libs/My_lib/My_stdio/my_stdio.cpp:16 (my_strcmp) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+s1 = sin
+s2 = sin
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:360 (GetBrace) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Input buffer    = 0x5030000001f0
+Offset          = 14
+Node*           = 0x504000000130
+Run time symbol = {x}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:408 (GetNumVar) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Input buffer    = 0x5030000001f0
+Offset          = 14
+Node*           = 0x504000000130
+Run time symbol = {x}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:524 (GetVar) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Input buffer    = 0x5030000001f0
+Offset          = 14
+Node*           = 0x504000000130
+Run time symbol = {x}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:298 (GetPow) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Run time symbol = {#}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:647 (SkipComment) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Before skip comment:
+Input buffer    = 0x5030000001f0
+Offset          = 16
+Run time symbol = {#}
+
+
+[DEBUG] 
+Differenciator/source/read_diff.cpp:669 (SkipComment) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+After skip comment:
+Input buffer    = 0x5030000001f0
+Offset          = 23
+There is end of buffer
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:19 (DumpDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000000d0 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:26 (DumpDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+File with name "Dump_Files/Dump.html" and pointer [0x515000000a80] was opened
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:38 (DumpDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+File with name "Dump_Files/Dump.dot" and pointer [0x515000000d00] was opened
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000000d0 | dump_file = 0x515000000d00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x5040000000d0 | dump_file = 0x515000000d00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000010 | dump_file = 0x515000000d00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000010 | dump_file = 0x515000000d00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000050 | dump_file = 0x515000000d00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000050 | dump_file = 0x515000000d00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000090 | dump_file = 0x515000000d00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000090 | dump_file = 0x515000000d00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000110 | dump_file = 0x515000000d00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000110 | dump_file = 0x515000000d00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000150 | dump_file = 0x515000000d00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000150 | dump_file = 0x515000000d00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000000d0 | dump_file = 0x515000000d00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000010 | dump_file = 0x515000000d00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000050 | dump_file = 0x515000000d00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000090 | dump_file = 0x515000000d00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000110 | dump_file = 0x515000000d00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000150 | dump_file = 0x515000000d00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:57 (DumpDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+File with pointer [0x515000000d00] was closed
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:73 (DumpDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+File with pointer [0x515000000a80] was closed
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x5040000000d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x5040000000d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x5040000000d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x5040000000d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x5040000000d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000010
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x504000000010
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x504000000010
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x504000000010
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x504000000010
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000050
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000090
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000110
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x504000000110
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x504000000110
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x504000000110
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x504000000110
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000150
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:19 (DumpDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000000d0 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:26 (DumpDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+File with name "Dump_Files/Dump.html" and pointer [0x515000000f80] was opened
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:38 (DumpDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+File with name "Dump_Files/Dump.dot" and pointer [0x515000001200] was opened
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000000d0 | dump_file = 0x515000001200 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x5040000000d0 | dump_file = 0x515000001200 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000010 | dump_file = 0x515000001200 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000010 | dump_file = 0x515000001200 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000050 | dump_file = 0x515000001200 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000050 | dump_file = 0x515000001200 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000090 | dump_file = 0x515000001200 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000090 | dump_file = 0x515000001200 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000110 | dump_file = 0x515000001200 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000110 | dump_file = 0x515000001200 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000150 | dump_file = 0x515000001200 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000150 | dump_file = 0x515000001200 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000000d0 | dump_file = 0x515000001200 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000010 | dump_file = 0x515000001200 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000050 | dump_file = 0x515000001200 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000090 | dump_file = 0x515000001200 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000110 | dump_file = 0x515000001200 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000150 | dump_file = 0x515000001200 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:57 (DumpDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+File with pointer [0x515000001200] was closed
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:73 (DumpDiff) 46 sec 10 min 1 hours 8 days 12 month 2024 year
+File with pointer [0x515000000f80] was closed
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:19 (DumpDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000190 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:26 (DumpDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+File with name "Dump_Files/Dump.html" and pointer [0x515000001480] was opened
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:38 (DumpDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+File with name "Dump_Files/Dump.dot" and pointer [0x515000001700] was opened
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000190 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000190 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000290 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000290 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000002d0 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x5040000002d0 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000310 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000310 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000003d0 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x5040000003d0 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000410 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000410 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000450 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000450 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000490 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000490 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000004d0 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x5040000004d0 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000350 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000350 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000005d0 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x5040000005d0 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000610 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000610 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000510 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000510 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000550 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000550 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000590 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000590 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000390 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000390 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000650 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000650 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000690 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000690 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000006d0 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x5040000006d0 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000710 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000710 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000750 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000750 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000790 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000790 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000007d0 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x5040000007d0 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000190 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000290 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000002d0 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000310 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000003d0 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000410 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000450 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000490 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000004d0 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000350 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000005d0 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000610 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000510 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000550 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000590 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000390 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000650 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000690 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000006d0 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000710 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000750 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000790 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000007d0 | dump_file = 0x515000001700 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:57 (DumpDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+File with pointer [0x515000001700] was closed
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:73 (DumpDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+File with pointer [0x515000001480] was closed
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000190
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x504000000190
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x504000000190
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x504000000190
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x504000000190
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000290
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x504000000290
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x504000000290
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x504000000290
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x504000000290
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x5040000002d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x5040000002d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x5040000002d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x5040000002d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x5040000002d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000310
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x504000000310
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x504000000310
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x504000000310
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x504000000310
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x5040000003d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x5040000003d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x5040000003d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x5040000003d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x5040000003d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000410
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000450
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000490
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x504000000490
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x504000000490
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x504000000490
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x504000000490
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x5040000004d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000350
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x504000000350
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x504000000350
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x504000000350
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x504000000350
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x5040000005d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x5040000005d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x5040000005d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x5040000005d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x5040000005d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000610
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000510
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x504000000510
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x504000000510
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x504000000510
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x504000000510
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000550
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000590
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000390
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x504000000390
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x504000000390
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x504000000390
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x504000000390
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000650
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x504000000650
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x504000000650
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x504000000650
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x504000000650
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000690
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x5040000006d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000710
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x504000000710
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x504000000790
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x504000000790
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x504000000790
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x5040000007d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000190
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x504000000190
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x504000000190
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x504000000190
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x504000000190
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000290
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x504000000290
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x504000000290
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x504000000290
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x504000000290
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x5040000002d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x5040000002d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x5040000002d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x5040000002d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x5040000002d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000310
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x504000000310
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x504000000310
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x504000000310
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x504000000310
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x5040000003d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x5040000003d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x5040000003d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x5040000003d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x5040000003d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000410
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000450
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000490
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x504000000490
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x504000000490
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x504000000490
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x504000000490
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x5040000004d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000350
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x504000000350
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x504000000350
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x504000000350
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x504000000350
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x5040000005d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x5040000005d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x5040000005d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x5040000005d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x5040000005d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000610
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000510
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x504000000510
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x504000000510
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x504000000510
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x504000000510
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000550
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000590
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000390
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x504000000390
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x504000000390
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x504000000390
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x504000000390
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000650
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x504000000650
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x504000000650
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x504000000650
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x504000000650
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000690
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x5040000006d0
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x504000000790
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:52 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (adding null) = 0x504000000790
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:70 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root  after simplification (multiply by one) = 0x504000000790
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:90 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (multiply null or divide zero) = 0x504000000790
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:108 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+New root after simplification (functions with constants) = 0x504000000790
+
+
+[DEBUG] 
+Differenciator/source/simplify_diff.cpp:20 (Simplify) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Root at start = 0x5040000007d0
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:19 (DumpDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000190 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:26 (DumpDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+File with name "Dump_Files/Dump.html" and pointer [0x515000001980] was opened
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:38 (DumpDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+File with name "Dump_Files/Dump.dot" and pointer [0x515000001c00] was opened
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000190 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000190 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000290 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000290 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000002d0 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x5040000002d0 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000310 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000310 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000003d0 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x5040000003d0 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000410 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000410 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000450 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000450 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000490 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000490 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000004d0 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x5040000004d0 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000350 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000350 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000005d0 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x5040000005d0 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000610 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000610 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000510 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000510 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000550 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000550 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000590 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000590 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000390 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000390 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000650 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000650 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000690 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000690 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000006d0 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x5040000006d0 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000790 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x504000000790 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:135 (PrintTreeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000007d0 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:108 (PrintNodeInfoDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| node = 0x5040000007d0 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000190 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000290 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000002d0 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000310 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000003d0 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000410 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000450 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000490 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000004d0 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000350 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000005d0 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000610 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000510 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000550 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000590 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000390 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000650 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000690 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000006d0 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x504000000790 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:159 (PrintEdgesTreeDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+Function got arguments:
+| root = 0x5040000007d0 | dump_file = 0x515000001c00 |
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:57 (DumpDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+File with pointer [0x515000001c00] was closed
+
+
+[DEBUG] 
+Differenciator/source/dump_diff.cpp:73 (DumpDiff) 47 sec 10 min 1 hours 8 days 12 month 2024 year
+File with pointer [0x515000001980] was closed
+
+
