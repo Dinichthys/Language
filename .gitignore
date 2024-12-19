@@ -1,6 +1,6 @@
-./front
-./back
-./lang
+front
+back
+lang
 log/*
 build/*
 .vscode/*
