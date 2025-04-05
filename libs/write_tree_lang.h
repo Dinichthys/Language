@@ -46,7 +46,7 @@ static const char* const kCommaNodeWord    = "COMMA";
 static const char* const kInNodeWord  = "IN";
 static const char* const kOutNodeWord = "OUT";
 
-static const char* const kReturnNodeWord = "RETURN";
+static const char* const kReturnNodeWord = "RET";
 
 static const char* const kDoubleNodeWord = "DOUBLE";
 

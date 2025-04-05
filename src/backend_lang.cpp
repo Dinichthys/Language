@@ -172,7 +172,7 @@ static enum LangError PrintSym (const node_t* const root, FILE* const output_fil
     if (root->value.operation == kAssign)
     {
         PrintNode (root->right, output_file);
-        fprintf (output_file, "pop [%lld]\n", root->left->value.variable);
+        fprintf (output_file, "pop [bx+%lld]\n", root->left->value.variable);
     }
 
     if (root->value.operation == kCommandEnd)

@@ -63,6 +63,8 @@ enum NodeType
 
     kEndToken = 11,
 
+    kComp = 12,
+
     kInvalidNodeType = -1,
 };
 
@@ -103,6 +105,13 @@ enum OpType
     kReturn = 25,
 
     kDouble = 26,
+
+    kMore     = 27,
+    kMoreOrEq = 28,
+    kLess     = 29,
+    kLessOrEq = 30,
+    kEqual    = 31,
+    kNEqual   = 32,
 
     kInvalidFunc = -1,
 };

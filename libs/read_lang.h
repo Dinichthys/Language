@@ -10,7 +10,7 @@
 static const size_t kProgramLen      = 10000;
 static const size_t kVarMaxNum       = 200;
 static const size_t kVarTablesMaxNum = 100;
-static const size_t kTokenNumber     = 27;
+static const size_t kTokenNumber     = 33;
 
 static const char kCommentSymbol = '#';
 static const char kEOF           = '\0';
@@ -151,7 +151,14 @@ const token_pattern_t kTokenTypes [kTokenNumber] =
 
     [25] = {.token = {.type = kFunc,     {.operation = kReturn}},                  .str_token = "АТАС_ШМОН"      },
 
-    [26] = {.token = {.type = kType,     {.operation = kDouble}},                  .str_token = "фраер"          }
+    [26] = {.token = {.type = kType,     {.operation = kDouble}},                  .str_token = "фраер"          },
+
+    [27] = {.token = {.type = kComp,     {.operation = kMore}},                    .str_token = "блатнее"        },
+    [28] = {.token = {.type = kComp,     {.operation = kMoreOrEq}},                .str_token = "больше_или_равно"},
+    [29] = {.token = {.type = kComp,     {.operation = kLess}},                    .str_token = "опущенный"       },
+    [30] = {.token = {.type = kComp,     {.operation = kLessOrEq}},                .str_token = "меньше_или_равно"},
+    [31] = {.token = {.type = kComp,     {.operation = kEqual}},                   .str_token = "ровный_поц"     },
+    [32] = {.token = {.type = kComp,     {.operation = kNEqual}},                  .str_token = "не_ровный_поц"  },
 };
 
 #undef TOKEN_PATTERN
